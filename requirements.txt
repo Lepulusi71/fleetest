@@ -7,3 +7,5 @@ Customer Benenfits
 ----------------
 - Usage of Modular Mobility Services
 - One trip planning, booking and ticket validation platform
+- crypto payment functionality
+- on journey support
